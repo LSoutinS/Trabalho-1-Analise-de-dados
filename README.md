@@ -14,6 +14,7 @@ Este trabalho busca apresentar o modelo de negócios de uma empresa, que atualme
 
 ## - Fontes de dados
 https://www.youtube.com/c/KORNCARS
+
 https://autoshow.com.br/porsche-emplacou-mais-de-300-mil-carros-no-mundo-em-2021/#:~:text=Conforme%20dados%20divulgados%20pela%20Porsche,quando%20foram%20emplacadas%20272.162%20unidades.
 
 ## - Minhas contribuições 
