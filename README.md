@@ -5,7 +5,8 @@ Este trabalho busca apresentar o modelo de negócios de uma empresa, que atualme
 
 "O *** ***** surgiu focado em atender você que enxerga automóvel mais do que um meio de locomoção e está procurando realizar o primeiro sonho nesse fantástico mundo dos automóveis premium"
 ## - Cama de gato do futuro
-![Captura de Tela (37)](https://user-images.githubusercontent.com/84390274/197639927-90d03460-286c-45b6-afcf-5e8caac64542.png)
+![Captura de Tela (38)](https://user-images.githubusercontent.com/84390274/197640070-b84f35db-92d3-4bdf-a0e3-6738eef58ed5.png)
+
 
 ## - Business model canvas
 
