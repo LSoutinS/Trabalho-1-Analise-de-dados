@@ -10,6 +10,8 @@ Este trabalho busca apresentar o modelo de negócios de uma empresa, que atualme
 
 ## - Business model canvas
 https://next.canvanizer.com/canvas/i9o9MqriYyV3E
+![Captura de Tela (40)](https://user-images.githubusercontent.com/84390274/197643637-5aea4ecb-7be3-46cd-ae83-334a6941c85b.png)
+
 ## - Vídeo
 
 ## - Fontes de dados
