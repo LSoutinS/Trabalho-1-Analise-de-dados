@@ -19,5 +19,15 @@ https://www.youtube.com/c/KORNCARS
 
 https://autoshow.com.br/porsche-emplacou-mais-de-300-mil-carros-no-mundo-em-2021/#:~:text=Conforme%20dados%20divulgados%20pela%20Porsche,quando%20foram%20emplacadas%20272.162%20unidades.
 
+https://www.fenabrave.org.br/Portal/conteudo/emplacamentos#
+
+https://automotivebusiness.com.br/pt/posts/noticias/porsche-ja-registra-novo-recorde-de-vendas-no-brasil/
+
+https://quatrorodas.abril.com.br/noticias/porsche-ignora-a-crise-e-tem-crescimento-de-24-no-brasil-911-lidera/#:~:text=O%20esportivo%20mais%20ic%C3%B4nico%20e,852%20unidades%20emplacadas%20no%20Brasil.
+
 ## - Minhas contribuições 
 Contribui na pesquisa do trabalho do Lucas Rocha.
+
+
+## - Link para o colab
+
