@@ -30,4 +30,5 @@ Contribui na pesquisa do trabalho do Lucas Rocha.
 
 
 ## - Link para o colab
+https://colab.research.google.com/drive/1XVQSUTbUxFhprxT79eKL5jCUL5Re-BBc?usp=sharing
 
